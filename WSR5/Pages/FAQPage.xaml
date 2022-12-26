@@ -1,0 +1,14 @@
+﻿<Page x:Class="WSR5.Pages.FAQPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WSR5.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="1300"
+      Title="FAQPage">
+
+    <Grid>
+        <TextBlock Text="ООО «Цветы»  - магазин по продаже цветов и фурнитуры для флористов в г.Лесной." Margin="10" TextWrapping="Wrap" FontFamily="Comic Sans MS" FontSize="30"/>
+    </Grid>
+</Page>
